@@ -5,7 +5,7 @@ import sys
 from datetime import date, timedelta
 from tabulate import tabulate
 
-connection = sqlite3.connect('C:/main/Code/expense-tracker2/expences.db')
+connection = sqlite3.connect('C:/main/Code/expense-tracker/expences.db')
 cursor = connection.cursor()
 
 
