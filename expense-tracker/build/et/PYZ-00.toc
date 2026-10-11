@@ -264,6 +264,7 @@
   ('selectors',
    'C:\\msys64\\ucrt64\\lib\\python3.14\\selectors.py',
    'PYMODULE'),
+  ('shlex', 'C:\\msys64\\ucrt64\\lib\\python3.14\\shlex.py', 'PYMODULE'),
   ('shutil', 'C:\\msys64\\ucrt64\\lib\\python3.14\\shutil.py', 'PYMODULE'),
   ('signal', 'C:\\msys64\\ucrt64\\lib\\python3.14\\signal.py', 'PYMODULE'),
   ('socket', 'C:\\msys64\\ucrt64\\lib\\python3.14\\socket.py', 'PYMODULE'),
