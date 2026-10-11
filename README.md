@@ -53,7 +53,7 @@ Now `et list` runs one command, and plain `et` (no arguments) opens the interact
 
 ## Run from source (Windows, macOS, Linux)
 
-Requires Python 3.10 or newer (the code uses `match`) and the `tabulate` package:
+Requires Python 3.10 or newer:
 
 ```bash
 pip install tabulate
